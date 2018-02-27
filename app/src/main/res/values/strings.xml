@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pogoda</string>
+    <string name="Title_error">Oops! Sorry!</string>
+    <string name="Title_message">There was an error, please try again!</string>
+    <string name="Error_ok">OK</string>
+    <string name="network_unavailable">Network is unavailable!</string>
+    <string name="Error_no_network">Brak internetu!</string>
+    <string name="Error_no_network_message">Wykryliśmy brak połączenia z internetem, sprawdź ustawienia</string>
+</resources>
